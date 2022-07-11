@@ -1,6 +1,6 @@
 {
   "siteMetadata": {
-    "language": "en",
+    "language": "ja",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
@@ -9,15 +9,11 @@
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "twitter":"https://mobile.twitter.com/_nandechan"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "なんでちゃん" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -27,7 +23,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Pdf",
         "url": "/resume.pdf"
       },
       "footer": [
@@ -37,8 +33,9 @@
     },
     "featureToggles": {
       "useDarkModeAsDefault": false,
-      "useDarkModeBasedOnUsersPreference": true,
+      "useDarkModeBasedOnUsersPreference": false,
       "useCookieBar": false
     }
   }
 }
+

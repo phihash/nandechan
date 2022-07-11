@@ -24,6 +24,8 @@ module.exports = {
         //     environments: ["production", "development"] // Default ["production"]
         // }
       },
+
     },
+
   ],
 };
