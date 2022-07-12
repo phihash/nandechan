@@ -2,9 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ ",
-      "title": "title",
-      "description": "ここには説明を",
+      "category": "日用品",
+      "title": "マグカップ",
+      "description": "SUZURIにて作成したなんでちゃんマグカップ",
       "tags": ["Tag1", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
@@ -42,7 +42,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Blog >>",
+    "url": "https://lighthearted-biscotti-d87062.netlify.app/blog"
   }
 }
