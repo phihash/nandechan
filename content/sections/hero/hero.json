@@ -1,22 +1,21 @@
 {
-  "intro": "Introをいれる",
+  "intro": "ようこそ！なんでちゃんです!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/favicon.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "title",
   "subtitle": {
     "prefix": "I do all the setup ",
-    "highlight": "for you",
     "suffix": "."
   },
   "description": "hero.jsonのdescriptionをかく",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["Twitter"],
     "showIcons": true
   }
 }

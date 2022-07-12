@@ -1,10 +1,10 @@
 {
   "name": "hero 名前",
   "email": "アドレス",
-  "description": "contactセクションの説明",
+  "description": "なんでちゃんへメール",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "なんでちゃん Logo"
   },
   "socialProfiles": {
     "from": ["twitter"],
